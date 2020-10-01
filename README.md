@@ -11,3 +11,11 @@ Initializr functioning is pretty intuitive but it can help to read guides about 
 Here are some which will help you using Initializr and understanding HTML5 Boilerplate, 
 HTML5shiv or Modernizr, in French, Italian, Russian, 
 Dutch, Portuguese, Polish, and Japanese.
+
+How do I type Lorem Ipsum?
+
+What is Lorem Ipsum Lorem Ipsum is simply dummy
+ text of the printing and typesetting industry Lorem Ipsum 
+ has been the industry's standard dummy text ever since the 
+ 1500s when an unknown printer took a galley of type and scrambled
+ it to make a type specimen book it has?
